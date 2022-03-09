@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dmitriy
 #### I am PCS software engineer
-![I am PCS software engineer][![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
+![I am PCS software engineer](https://www.codewars.com/users/dsk13-stack/badges/large)  
 
 I develop software for industrial equipment based on PLC and visualization systems - HMI and SCADA.
 
